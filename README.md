@@ -21,6 +21,6 @@ These cards do not fully cover EU General Data Protection Regulation compliance,
 
 For best results, discuss privacy and data protection both during service design and technical design.
 
-Elevation of Privacy is © 2018 F-Secure Corporation. This work is licenced under the Creative Commons Attribution 4.0 International license (https:// creativecommons.org/licenses/by/4.0/). Card templates based on the Elevation of Privilege card game (https://www.microsoft.com/en-us/SDL/ adopt/eop.aspx), which is © 2010 Microsoft Corporation, licensed under the Creative Commons Attribution 3.0 United States license (https:// creativecommons.org/licenses/by/3.0/us/). The original work has been modified.
+Elevation of Privacy is © 2018 F-Secure Corporation. This work is licenced under the Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/). Card templates based on the Elevation of Privilege card game (https://www.microsoft.com/en-us/SDL/adopt/eop.aspx), which is © 2010 Microsoft Corporation, licensed under the Creative Commons Attribution 3.0 United States license (https://creativecommons.org/licenses/by/3.0/us/). The original work has been modified.
 
 Working group: Marko Hämäläinen, Laura Noukka, Hiski Ruhanen, Ilona Varis, Antti Vähä-Sipilä.
